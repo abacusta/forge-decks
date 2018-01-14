@@ -1,0 +1,33 @@
+[metadata]
+Name=Eldrazi Tron
+[Main]
+2 All Is Dust|MM2
+1 Cavern of Souls|MM3
+4 Chalice of the Void|MMA
+1 Crucible of Worlds|10E
+1 Dismember|MM2
+4 Eldrazi Temple|MM2
+2 Endbringer|OGW
+4 Expedition Map|MM2
+4 Ghost Quarter|ISD
+2 Karn Liberated|MM2
+4 Matter Reshaper|OGW
+4 Reality Smasher|OGW
+1 Sea Gate Wreckage|OGW
+4 Thought-Knot Seer|OGW
+1 Trinisphere|DST
+4 Urza's Mine|9ED
+4 Urza's Power Plant|9ED
+4 Urza's Tower|9ED
+4 Walking Ballista|AER
+2 Warping Wail|OGW
+2 Wastes|OGW|1
+1 Wurmcoil Engine|SOM
+[Sideboard]
+1 Dismember|MM2
+2 Hangarback Walker|ORI
+2 Pithing Needle|RTR
+2 Ratchet Bomb|M14
+3 Relic of Progenitus|EMA
+3 Surgical Extraction|MM2
+2 Warping Wail|OGW

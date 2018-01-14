@@ -1,0 +1,36 @@
+[metadata]
+Name=Grixis Shadow
+[Main]
+1 Blood Crypt|RTR
+4 Bloodstained Mire|KTK
+4 Death's Shadow|MM3
+1 Dismember|MM2
+3 Fatal Push|AER
+2 Gurmag Angler|FRF
+2 Inquisition of Kozilek|MM3
+1 Island|XLN|1
+1 Kolaghan's Command|DTK
+2 Opt|XLN
+4 Polluted Delta|KTK
+4 Scalding Tarn|MM3
+4 Serum Visions|MM3
+4 Snapcaster Mage|MM3
+1 Steam Vents|RTR
+4 Street Wraith|MMA
+3 Stubborn Denial|KTK
+1 Swamp|XLN|1
+2 Tasigur, the Golden Fang|FRF
+2 Terminate|MM3
+4 Thought Scour|IMA
+4 Thoughtseize|IMA
+2 Watery Grave|GTC
+[Sideboard]
+2 Ceremonious Rejection|KLD
+2 Collective Brutality|EMN
+1 Engineered Explosives|MMA
+1 Kolaghan's Command|DTK
+2 Liliana of the Veil|MM3
+2 Nihil Spellbomb|SOM
+1 Stubborn Denial|KTK
+2 Temur Battle Rage|FRF
+2 Young Pyromancer|EMA

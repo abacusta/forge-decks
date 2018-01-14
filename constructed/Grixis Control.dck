@@ -1,0 +1,38 @@
+[metadata]
+Name=Grixis Control
+[Main]
+4 Ancestral Vision|IMA
+1 Blood Crypt|RTR
+1 Countersquall|CFX
+3 Creeping Tar Pit|WWK
+3 Cryptic Command|IMA
+1 Fatal Push|AER
+1 Flooded Strand|KTK
+1 Gurmag Angler|FRF
+3 Island|XLN|1
+3 Kolaghan's Command|DTK
+2 Lightning Bolt|MM2
+2 Logic Knot|MMA
+1 Mountain|XLN|1
+1 Negate|AER
+4 Polluted Delta|KTK
+4 Scalding Tarn|MM3
+1 Search for Azcanta|XLN
+4 Serum Visions|MM3
+4 Snapcaster Mage|MM3
+2 Steam Vents|RTR
+1 Swamp|XLN|1
+2 Tasigur, the Golden Fang|FRF
+4 Terminate|MM3
+3 Thought Scour|IMA
+2 Vendilion Clique|MM2
+2 Watery Grave|GTC
+[Sideboard]
+2 Collective Brutality|EMN
+1 Damnation|MM3
+3 Disdainful Stroke|KTK
+1 Engineered Explosives|MMA
+3 Fulminator Mage|MM2
+2 Negate|AER
+1 Ratchet Bomb|M14
+2 Surgical Extraction|MM2

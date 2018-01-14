@@ -1,0 +1,39 @@
+[metadata]
+Name=Doubling Planeswalkers
+[Main]
+1 Ajani Vengeant|ALA
+3 Arbor Elf|M13
+3 Birds of Paradise|M12
+3 Blood Moon|MM3
+1 Breeding Pool|GTC
+1 Chandra, Flamecaller|OGW
+3 Doubling Season|MMA
+1 Emrakul, the Aeons Torn|MM2
+5 Forest|XLN|1
+1 Gavony Township|ISD
+1 Gideon Jura|M12
+2 Jace, Architect of Thought|RTR
+4 Nahiri, the Harbinger|SOI
+2 Nissa, Voice of Zendikar|OGW
+4 Oath of Nissa|OGW
+1 Plains|XLN|1
+1 Ral Zarek|DGM
+2 Stomping Ground|GTC
+4 Sylvan Caryatid|THS
+2 Tamiyo, Field Researcher|EMN
+2 Temple Garden|RTR
+4 Utopia Sprawl|DIS
+4 Windswept Heath|KTK
+4 Wooded Foothills|KTK
+2 Worship|9ED
+1 Xenagos, the Reveler|THS
+[Sideboard]
+1 Choke|8ED
+2 Courser of Kruphix|BNG
+2 Hurkyl's Recall|MM2
+3 Leyline of Sanctity|MM2
+1 Relic of Progenitus|EMA
+1 Rest in Peace|RTR
+2 Spellskite|MM2
+1 Sphere of Safety|RTR
+2 Stony Silence|MM3

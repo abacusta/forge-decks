@@ -1,0 +1,38 @@
+[metadata]
+Name=Death's Shadow
+[Main]
+1 Blood Crypt|RTR
+4 Bloodstained Mire|KTK
+4 Death's Shadow|MM3
+3 Fatal Push|AER
+1 Forest|XLN|1
+1 Godless Shrine|GTC
+1 Grim Flayer|EMN
+1 Hazoret the Fervent|AKH
+4 Inquisition of Kozilek|MM3
+2 Kolaghan's Command|DTK
+2 Liliana of the Veil|MM3
+1 Marsh Flats|MM3
+4 Mishra's Bauble|IMA
+2 Overgrown Tomb|RTR
+1 Stomping Ground|GTC
+4 Street Wraith|MMA
+1 Swamp|XLN|1
+2 Tarfire|LRW
+4 Tarmogoyf|MM3
+1 Temur Battle Rage|FRF
+2 Terminate|MM3
+4 Thoughtseize|IMA
+4 Traverse the Ulvenwald|SOI
+4 Verdant Catacombs|MM3
+2 Wooded Foothills|KTK
+[Sideboard]
+2 Ancient Grudge|MM3
+1 Collective Brutality|EMN
+1 Eidolon of Rhetoric|JOU
+3 Fulminator Mage|MM2
+1 Kataki, War's Wage|MMA
+1 Liliana, the Last Hope|EMN
+3 Lingering Souls|MM3
+1 Nihil Spellbomb|SOM
+2 Surgical Extraction|MM2

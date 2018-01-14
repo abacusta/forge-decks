@@ -1,0 +1,33 @@
+[metadata]
+Name=RB Vampires
+[Main]
+4 Asylum Visitor|SOI
+4 Blood Crypt|RTR
+4 Bloodghast|IMA
+4 Bloodstained Mire|KTK
+2 Call the Bloodline|SOI
+1 Call to the Netherworld|TSP
+2 Falkenrath Gorger|SOI
+2 Fatal Push|AER
+4 Gatekeeper of Malakir|ZEN
+4 Heir of Falkenrath|SOI
+3 Insolent Neonate|SOI
+1 Mountain|XLN|1
+3 Olivia's Bloodsworn|SOI
+4 Polluted Delta|KTK
+2 Smuggler's Copter|KLD
+4 Stromkirk Captain|DKA
+6 Swamp|XLN|1
+1 Urborg, Tomb of Yawgmoth|M15
+3 Vampire Lacerator|MM2
+2 Vampire Nocturnus|M13
+[Sideboard]
+1 Crumble to Dust|BFZ
+2 Dismember|MM2
+2 Fatal Push|AER
+1 Ghost Quarter|ISD
+2 Kolaghan's Command|DTK
+1 Liliana, the Last Hope|EMN
+2 Relic of Progenitus|EMA
+2 Thoughtseize|IMA
+2 Vandalblast|RTR
