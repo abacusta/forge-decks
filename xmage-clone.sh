@@ -1,9 +1,5 @@
 #!/bin/bash
 
-
-TEST_FILE='constructed/Aggro Slivers.dck'
-OUTPUT_FILE=$(echo "${TEST_FILE}" | sed 's/.dck$/.txt/');
-
 generateImportFile() {
   IMPORT_FILE="$@";
   OUTPUT_FILE=$(echo "${IMPORT_FILE}" | sed 's/.dck$/.txt/');
