@@ -1,0 +1,39 @@
+[metadata]
+Name=Lantern Control
+[Main]
+1 Abrupt Decay|MM3
+1 Academy Ruins|MMA
+4 Ancient Stirrings|ROE
+3 Botanical Sanctum|KLD
+4 Codex Shredder|RTR
+3 Darkslick Shores|SOM
+3 Ensnaring Bridge|8ED
+4 Glimmervoid|MMA
+1 Grafdigger's Cage|MM3
+4 Inquisition of Kozilek|MM3
+1 Inventors' Fair|KLD
+1 Island|XLN|1
+4 Lantern of Insight|5DN
+4 Mishra's Bauble|IMA
+4 Mox Opal|MM2
+2 Pithing Needle|RTR
+1 Pyrite Spellbomb|MMA
+2 Pyxis of Pandemonium|THS
+1 River of Tears|IMA
+4 Spire of Industry|AER
+3 Thoughtseize|IMA
+4 Whir of Invention|AER
+1 Witchbane Orb|ISD
+[Sideboard]
+1 Abrupt Decay|MM3
+1 Ancient Grudge|MM3
+1 Collective Brutality|EMN
+1 Grafdigger's Cage|MM3
+2 Leyline of Sanctity|MM2
+1 Maelstrom Pulse|MMA
+1 Nature's Claim|IMA
+1 Pithing Needle|RTR
+1 Pyroclasm|MM3
+1 Search for Azcanta|XLN
+2 Tezzeret, Agent of Bolas|MBS
+2 Welding Jar|MRD
