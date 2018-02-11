@@ -5,6 +5,7 @@ generateImportFile() {
   OUTPUT_FILE=$(echo "${IMPORT_FILE}" | sed 's/.dck$/.txt/');
 
   sed 's/\[metadata\]//' "${IMPORT_FILE}" | sed 's/Name=.*//' | \
+    sed 's/\[Commander\]//' | \
     sed 's/\[Main\]//' | \
     sed '/^$/d' | \
     sed 's/\[Sideboard\]//' | \

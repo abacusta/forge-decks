@@ -1,0 +1,28 @@
+NAME:Jund-Slivers
+1 [XLN:268] Swamp
+1 [XLN:276] Forest
+4 [FUT:155] Virulent Sliver
+2 [KTK:249] Wooded Foothills
+4 [M12:165] Birds of Paradise
+4 [TSP:177] Sedge Sliver
+4 [THS:107] Thoughtseize
+4 [M15:102] Leeching Sliver
+4 [RTR:243] Overgrown Tomb
+4 [M14:189] Predatory Sliver
+4 [ZEN:229] Verdant Catacombs
+1 [RTR:238] Blood Crypt
+2 [M15:247] Sliver Hive
+4 [AVR:226] Cavern of Souls
+4 [M15:205] Venom Sliver
+1 [M14:117] Syphon Sliver
+2 [DST:91] Aether Vial
+2 [GTC:247] Stomping Ground
+4 [GTC:156] Domri Rade
+4 [PLC:155] Darkheart Sliver
+SB: 4 [TSP:240] Harmonic Sliver
+SB: 4 [BFZ:128] Crumble to Dust
+SB: 2 [AER:57] Fatal Push
+SB: 2 [M14:117] Syphon Sliver
+SB: 3 [M11:101] Leyline of the Void
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,50)|([DST:91],[DST:91])([M12:165],[M12:165],[M12:165],[M12:165],[PLC:155],[PLC:155],[PLC:155],[PLC:155],[M15:102],[M15:102],[M15:102],[M15:102],[M14:189],[M14:189],[M14:189],[M14:189],[TSP:177],[TSP:177],[TSP:177],[TSP:177],[M14:117],[M15:205],[M15:205],[M15:205],[M15:205],[FUT:155],[FUT:155],[FUT:155],[FUT:155])([RTR:238],[AVR:226],[AVR:226],[AVR:226],[AVR:226],[XLN:276],[RTR:243],[RTR:243],[RTR:243],[RTR:243],[M15:247],[M15:247],[GTC:247],[GTC:247],[XLN:268],[ZEN:229],[ZEN:229],[ZEN:229],[ZEN:229],[KTK:249],[KTK:249])([GTC:156],[GTC:156],[GTC:156],[GTC:156])([THS:107],[THS:107],[THS:107],[THS:107])
+LAYOUT SIDEBOARD:(1,1)(NONE,false,50)|([BFZ:128],[BFZ:128],[BFZ:128],[BFZ:128],[AER:57],[AER:57],[TSP:240],[TSP:240],[TSP:240],[TSP:240],[M11:101],[M11:101],[M11:101],[M14:117],[M14:117])

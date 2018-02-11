@@ -8,7 +8,7 @@
 #
 
 cd $(dirname $0);
-SCRIPTS_DIR=$(pwd);
+SCRIPTS_DIR=$(pwd)/forge;
 DECKS_DIR="${HOME}/Library/Application Support/Forge/decks";
 
 checkDecksDir() {
